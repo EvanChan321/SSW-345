@@ -1,0 +1,1 @@
+**main.java** is the driver code for the application. Basic error checking functions are implemented for user input but it is largely based on the provided examples in the Lab Document. All files use the **default package**.
